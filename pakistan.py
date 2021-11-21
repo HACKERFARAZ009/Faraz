@@ -45,7 +45,7 @@ def main():
     mx()
 def mx():
     tech_Faraz = raw_input("\n[!] Select a valid option : ")
-    if tech_abm =="1":
+    if tech_Faraz =="1":
         os.system("cd data && python2 data")
     if tech_Faraz =="2":
         os.system("cd exts && python2 exts")
